@@ -12,8 +12,8 @@ import numpy as np
 img=cv2.imread('xxx') #change it to your picture address, preferable absolute address
 height=img.shape[0]
 width=img.shape[1]
-kernel_size=7
-kernel_intensity=20
+kernel_size=7 // This will filter size
+kernel_intensity=20 // This will affect the color
 def limit(pixel_value):
     return min(pixel_value,255)
 
