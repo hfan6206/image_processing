@@ -5,7 +5,7 @@ Created on Wed Sep  4 02:09:41 2019
 @author: fanhengxin
 """
 
-# you need to install numpy in your computer
+# you need to install numpy & cv2 in your computer
 import cv2 
 import numpy as np
 
