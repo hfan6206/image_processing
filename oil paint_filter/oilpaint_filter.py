@@ -5,6 +5,11 @@ Created on Wed Sep  4 02:09:41 2019
 @author: fanhengxin
 """
 
+"""
+optimization is to be made by replacing for loop with numpy operation
+"""
+
+
 # you need to install numpy & cv2 in your computer
 import cv2 
 import numpy as np
