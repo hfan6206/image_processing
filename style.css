@@ -1,0 +1,29 @@
+h1 {
+    font-size: 26px;
+    color:	#e64626;
+        font-weight: bold;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 18px;
+}
+h2, h3, h4, h5, h6 {
+      font-weight: bold;
+    color: black;
+}
+
+/* link colour */
+a {
+    color: #0148A4;
+}
+
+/* general text colour */
+body {
+    color: #424242;
+}
+
